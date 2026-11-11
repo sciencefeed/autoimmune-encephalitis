@@ -1,0 +1,57 @@
+policy_version: 1
+mode: strict_content
+
+project:
+  topic_name: TOPIC_NAME
+  workbook_path: MASTER_WORKBOOK_PATH
+
+required:
+  disposable_docker_vm_required: true
+  nested_docker_required: false
+  approval_free_mode: true
+  multi_agent:
+    enabled: true
+    agents:
+      - extractor
+      - verifier
+      - adjudicator
+  qa_rounds: 3
+  preflight_plan: true
+  postflight_report: true
+  saved_file_verification: true
+
+prohibited:
+  - add_columns_without_explicit_approval
+  - remove_columns_without_explicit_approval
+  - reorder_columns_without_explicit_approval
+  - rename_sheets_without_explicit_approval
+  - move_rows_between_sheets_without_explicit_approval
+  - copy_rows_between_sheets_without_explicit_approval
+  - unapproved_local_fallback_when_docker_rejected
+
+approval_keywords:
+  structure_change: "STRUCTURE CHANGE APPROVED"
+
+protected:
+  sheets: []
+  sheet_isolation_rules: []
+
+qa_checks:
+  round_1:
+    - schema_presence
+    - row_integrity
+    - hyperlink_format
+  round_2:
+    - identifier_match
+    - title_identifier_consistency
+    - link_identifier_consistency
+  round_3:
+    - inclusion_consistency
+    - protected_sheet_isolation
+    - final_cleanliness
+
+failure_behavior:
+  on_disposable_vm_unavailable: stop_and_report
+  on_qa_failure: stop_and_report
+  on_saved_file_verification_failure: stop_and_report
+  on_policy_violation: stop_no_write

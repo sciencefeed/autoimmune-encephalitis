@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "rows_checked": 19,
+  "retained_pmids_count": 63,
+  "blank_cells": 0,
+  "placeholder_values": 0,
+  "invalid_urls": 0,
+  "missing_hyperlinks": 0,
+  "membership_mismatches": 0,
+  "error_count": 0,
+  "errors": []
+}

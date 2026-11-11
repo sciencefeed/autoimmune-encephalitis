@@ -1,0 +1,68 @@
+{
+  "submitted_pmids_count": 18,
+  "removed_counts": {
+    "Medium-High confidence items": 4,
+    "Low Confidence Items": 7
+  },
+  "removed_rows": {
+    "Medium-High confidence items": [
+      {
+        "row": 4,
+        "pmid": "26199781",
+        "title": "Anti-NMDA Receptor Encephalitis in a Patient with Previous Psychosis and Neurological Abnormalities: A Diagnostic Challenge."
+      },
+      {
+        "row": 5,
+        "pmid": "29213978",
+        "title": "A patient with a long history of relapsing psychosis and mania presenting with anti-NMDA receptor encephalitis ten years after first episode."
+      },
+      {
+        "row": 7,
+        "pmid": "26089673",
+        "title": "Anti-N-methyl-d-aspartate receptor encephalitis in a patient with a 7-year history of being diagnosed as schizophrenia: complexities in diagnosis and treatment."
+      },
+      {
+        "row": 10,
+        "pmid": "23997078",
+        "title": "Autoimmune limbic encephalitis presenting as relapsing psychosis."
+      }
+    ],
+    "Low Confidence Items": [
+      {
+        "row": 6,
+        "pmid": "35222231",
+        "title": "Autoimmune Encephalitis in Long-Standing Schizophrenia: A Case Report."
+      },
+      {
+        "row": 10,
+        "pmid": "28798699",
+        "title": "Schizophrenia or Atypical Lupus Erythematosus with Predominant Psychiatric Manifestations over 25 Years: Case Analysis and Review."
+      },
+      {
+        "row": 11,
+        "pmid": "35237195",
+        "title": "Autoimmune Encephalitis With Psychotic Manifestations and Cognitive Impairment Presenting as Schizophrenia: Case Report and Literature Review."
+      },
+      {
+        "row": 15,
+        "pmid": "27672526",
+        "title": "Autoimmune Schizophrenia? Psychiatric Manifestations of Hashimoto's Encephalitis."
+      },
+      {
+        "row": 22,
+        "pmid": "23528411",
+        "title": "Long duration between presentation of probable anti-N-methyl-D-aspartate receptor encephalitis and either clinical relapse or positive serum autoantibodies."
+      },
+      {
+        "row": 26,
+        "pmid": "32560097",
+        "title": "Psychiatric Manifestation of Anti-LGI1 Encephalitis."
+      },
+      {
+        "row": 45,
+        "pmid": "37539324",
+        "title": "Case report: Psychosis and catatonia in an adolescent patient with adipsic hypernatremia and autoantibodies against the subfornical organ."
+      }
+    ]
+  }
+}

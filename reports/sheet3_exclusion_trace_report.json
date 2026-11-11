@@ -1,0 +1,11 @@
+{
+  "rows_updated": 16,
+  "counts": {
+    "non_research_source": 1,
+    "identifier_unresolved": 0,
+    "duration_below_threshold": 1,
+    "duration_not_extractable": 6,
+    "confidence_below_threshold": 0,
+    "scope_mismatch": 8
+  }
+}

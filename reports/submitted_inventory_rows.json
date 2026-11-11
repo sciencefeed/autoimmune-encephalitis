@@ -1,0 +1,200 @@
+[
+  {
+    "row": 4,
+    "raw_entry": "https://www.washingtonpost.com/wellness/2023/06/01/schizophrenia-autoimmune-lupus-psychiatry/",
+    "pmid": "",
+    "submitted_url": "https://www.washingtonpost.com/wellness/2023/06/01/schizophrenia-autoimmune-lupus-psychiatry/",
+    "research": "N",
+    "included": "N",
+    "not_included_why": "News/organization/conference source, not a peer-reviewed research article."
+  },
+  {
+    "row": 5,
+    "raw_entry": "https://www.lupus.org/resources/the-expert-series-bonus-episode-the-awakening-when-lupus-looks-like-mental-illness",
+    "pmid": "",
+    "submitted_url": "https://www.lupus.org/resources/the-expert-series-bonus-episode-the-awakening-when-lupus-looks-like-mental-illness",
+    "research": "N",
+    "included": "N",
+    "not_included_why": "News/organization/conference source, not a peer-reviewed research article."
+  },
+  {
+    "row": 6,
+    "raw_entry": "https://www.science.org/content/article/inflamed-brain-can-trigger-psychosis-search-patients-might-cured",
+    "pmid": "",
+    "submitted_url": "https://www.science.org/content/article/inflamed-brain-can-trigger-psychosis-search-patients-might-cured",
+    "research": "N",
+    "included": "N",
+    "not_included_why": "News/organization/conference source, not a peer-reviewed research article."
+  },
+  {
+    "row": 7,
+    "raw_entry": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2017.00174/full",
+    "pmid": "",
+    "submitted_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2017.00174/full",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "No PMID/URL match to current database."
+  },
+  {
+    "row": 8,
+    "raw_entry": "https://pubmed.ncbi.nlm.nih.gov/28798699/",
+    "pmid": "28798699",
+    "submitted_url": "https://pubmed.ncbi.nlm.nih.gov/28798699/",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "PMID not present in current database (likely excluded by filtering/scope)."
+  },
+  {
+    "row": 9,
+    "raw_entry": "https://pubmed.ncbi.nlm.nih.gov/35222231/",
+    "pmid": "35222231",
+    "submitted_url": "https://pubmed.ncbi.nlm.nih.gov/35222231/",
+    "research": "Y",
+    "included": "Y",
+    "not_included_why": ""
+  },
+  {
+    "row": 10,
+    "raw_entry": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8882583/",
+    "pmid": "35237195",
+    "submitted_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8882583/",
+    "research": "Y",
+    "included": "Y",
+    "not_included_why": ""
+  },
+  {
+    "row": 11,
+    "raw_entry": "https://pubmed.ncbi.nlm.nih.gov/39216106/",
+    "pmid": "39216106",
+    "submitted_url": "https://pubmed.ncbi.nlm.nih.gov/39216106/",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "PMID not present in current database (likely excluded by filtering/scope)."
+  },
+  {
+    "row": 12,
+    "raw_entry": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2023.1206226/full",
+    "pmid": "",
+    "submitted_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2023.1206226/full",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "No PMID/URL match to current database."
+  },
+  {
+    "row": 13,
+    "raw_entry": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.754938/full",
+    "pmid": "",
+    "submitted_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.754938/full",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "No PMID/URL match to current database."
+  },
+  {
+    "row": 14,
+    "raw_entry": "https://www.cambridge.org/core/journals/psychological-medicine/article/abs/dialysis-and-plasmapheresis-for-schizophrenia-a-systematic-review/7C67B61C3AB146EF41A0D2609ED2845A",
+    "pmid": "",
+    "submitted_url": "https://www.cambridge.org/core/journals/psychological-medicine/article/abs/dialysis-and-plasmapheresis-for-schizophrenia-a-systematic-review/7C67B61C3AB146EF41A0D2609ED2845A",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "No PMID/URL match to current database."
+  },
+  {
+    "row": 15,
+    "raw_entry": "https://www.snfnostos.org/en/archive/2023-snf-nostos-conference/conference-program/236/the-work-of-the-snf-center-for-precision-psychiatry-at-columbia-university/",
+    "pmid": "",
+    "submitted_url": "https://www.snfnostos.org/en/archive/2023-snf-nostos-conference/conference-program/236/the-work-of-the-snf-center-for-precision-psychiatry-at-columbia-university/",
+    "research": "N",
+    "included": "N",
+    "not_included_why": "News/organization/conference source, not a peer-reviewed research article."
+  },
+  {
+    "row": 16,
+    "raw_entry": "https://pubmed.ncbi.nlm.nih.gov/29213978/",
+    "pmid": "29213978",
+    "submitted_url": "https://pubmed.ncbi.nlm.nih.gov/29213978/",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "PMID not present in current database (likely excluded by filtering/scope)."
+  },
+  {
+    "row": 17,
+    "raw_entry": "https://pubmed.ncbi.nlm.nih.gov/26199781/",
+    "pmid": "26199781",
+    "submitted_url": "https://pubmed.ncbi.nlm.nih.gov/26199781/",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "PMID not present in current database (likely excluded by filtering/scope)."
+  },
+  {
+    "row": 18,
+    "raw_entry": "https://pubmed.ncbi.nlm.nih.gov/26089673/",
+    "pmid": "26089673",
+    "submitted_url": "https://pubmed.ncbi.nlm.nih.gov/26089673/",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "PMID not present in current database (likely excluded by filtering/scope)."
+  },
+  {
+    "row": 19,
+    "raw_entry": "https://www.jocn-journal.com/article/S0967-5868(13)00017-9/abstract",
+    "pmid": "",
+    "submitted_url": "https://www.jocn-journal.com/article/S0967-5868(13",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "No PMID/URL match to current database."
+  },
+  {
+    "row": 20,
+    "raw_entry": "https://pubmed.ncbi.nlm.nih.gov/23997078/",
+    "pmid": "23997078",
+    "submitted_url": "https://pubmed.ncbi.nlm.nih.gov/23997078/",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "PMID not present in current database (likely excluded by filtering/scope)."
+  },
+  {
+    "row": 21,
+    "raw_entry": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7348933/",
+    "pmid": "32560097",
+    "submitted_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7348933/",
+    "research": "Y",
+    "included": "Y",
+    "not_included_why": ""
+  },
+  {
+    "row": 22,
+    "raw_entry": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5028184/",
+    "pmid": "",
+    "submitted_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5028184/",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "PMCID present but no matched PMID/URL in current database."
+  },
+  {
+    "row": 23,
+    "raw_entry": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10233061/",
+    "pmid": "",
+    "submitted_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10233061/",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "PMCID present but no matched PMID/URL in current database."
+  },
+  {
+    "row": 24,
+    "raw_entry": "https://pubmed.ncbi.nlm.nih.gov/23344076/",
+    "pmid": "23344076",
+    "submitted_url": "https://pubmed.ncbi.nlm.nih.gov/23344076/",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "PMID not present in current database (likely excluded by filtering/scope)."
+  },
+  {
+    "row": 25,
+    "raw_entry": "https://jaapl.org/content/52/2/225",
+    "pmid": "",
+    "submitted_url": "https://jaapl.org/content/52/2/225",
+    "research": "Y",
+    "included": "N",
+    "not_included_why": "No PMID/URL match to current database."
+  }
+]

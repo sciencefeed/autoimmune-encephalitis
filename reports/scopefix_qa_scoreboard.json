@@ -1,0 +1,232 @@
+{
+  "qa_rounds": {
+    "round_1": {
+      "main": {
+        "ok": true,
+        "rows": 10,
+        "sorted_descending": true,
+        "bad_count": 0,
+        "bad_examples": [],
+        "top_durations_days": [
+          5114.0,
+          3652.0,
+          2922.0,
+          2557.0,
+          2343.0,
+          1339.0,
+          457.0,
+          365.0,
+          126.0,
+          91.0
+        ]
+      },
+      "low": {
+        "ok": true,
+        "rows": 53,
+        "sorted_descending": true,
+        "bad_count": 0,
+        "bad_examples": [],
+        "top_durations_days": [
+          18262.5,
+          17532.0,
+          14610.0,
+          13258.575,
+          10994.025,
+          10957.5,
+          9131.25,
+          7305.0,
+          6574.5,
+          6574.5,
+          5478.75,
+          5478.75,
+          4748.25,
+          3652.5,
+          3317.6875,
+          2922.0,
+          2556.75,
+          2556.75,
+          2191.5,
+          1826.25
+        ]
+      },
+      "id_main": {
+        "rows_checked": 10,
+        "overall_pass": 10,
+        "overall_fail": 0,
+        "sheet": "Medium-High confidence items",
+        "csv": "/work/reports/id_match_scopefix_main_1.csv"
+      },
+      "id_low": {
+        "rows_checked": 53,
+        "overall_pass": 53,
+        "overall_fail": 0,
+        "sheet": "Low Confidence Items",
+        "csv": "/work/reports/id_match_scopefix_low_1.csv"
+      },
+      "sheet3": {
+        "ok": true,
+        "rows_checked": 19,
+        "retained_pmids_count": 63,
+        "blank_cells": 0,
+        "placeholder_values": 0,
+        "invalid_urls": 0,
+        "missing_hyperlinks": 0,
+        "membership_mismatches": 0,
+        "error_count": 0,
+        "errors": []
+      }
+    },
+    "round_2": {
+      "main": {
+        "ok": true,
+        "rows": 10,
+        "sorted_descending": true,
+        "bad_count": 0,
+        "bad_examples": [],
+        "top_durations_days": [
+          5114.0,
+          3652.0,
+          2922.0,
+          2557.0,
+          2343.0,
+          1339.0,
+          457.0,
+          365.0,
+          126.0,
+          91.0
+        ]
+      },
+      "low": {
+        "ok": true,
+        "rows": 53,
+        "sorted_descending": true,
+        "bad_count": 0,
+        "bad_examples": [],
+        "top_durations_days": [
+          18262.5,
+          17532.0,
+          14610.0,
+          13258.575,
+          10994.025,
+          10957.5,
+          9131.25,
+          7305.0,
+          6574.5,
+          6574.5,
+          5478.75,
+          5478.75,
+          4748.25,
+          3652.5,
+          3317.6875,
+          2922.0,
+          2556.75,
+          2556.75,
+          2191.5,
+          1826.25
+        ]
+      },
+      "id_main": {
+        "rows_checked": 10,
+        "overall_pass": 10,
+        "overall_fail": 0,
+        "sheet": "Medium-High confidence items",
+        "csv": "/work/reports/id_match_scopefix_main_2.csv"
+      },
+      "id_low": {
+        "rows_checked": 53,
+        "overall_pass": 53,
+        "overall_fail": 0,
+        "sheet": "Low Confidence Items",
+        "csv": "/work/reports/id_match_scopefix_low_2.csv"
+      },
+      "sheet3": {
+        "ok": true,
+        "rows_checked": 19,
+        "retained_pmids_count": 63,
+        "blank_cells": 0,
+        "placeholder_values": 0,
+        "invalid_urls": 0,
+        "missing_hyperlinks": 0,
+        "membership_mismatches": 0,
+        "error_count": 0,
+        "errors": []
+      }
+    },
+    "round_3": {
+      "main": {
+        "ok": true,
+        "rows": 10,
+        "sorted_descending": true,
+        "bad_count": 0,
+        "bad_examples": [],
+        "top_durations_days": [
+          5114.0,
+          3652.0,
+          2922.0,
+          2557.0,
+          2343.0,
+          1339.0,
+          457.0,
+          365.0,
+          126.0,
+          91.0
+        ]
+      },
+      "low": {
+        "ok": true,
+        "rows": 53,
+        "sorted_descending": true,
+        "bad_count": 0,
+        "bad_examples": [],
+        "top_durations_days": [
+          18262.5,
+          17532.0,
+          14610.0,
+          13258.575,
+          10994.025,
+          10957.5,
+          9131.25,
+          7305.0,
+          6574.5,
+          6574.5,
+          5478.75,
+          5478.75,
+          4748.25,
+          3652.5,
+          3317.6875,
+          2922.0,
+          2556.75,
+          2556.75,
+          2191.5,
+          1826.25
+        ]
+      },
+      "id_main": {
+        "rows_checked": 10,
+        "overall_pass": 10,
+        "overall_fail": 0,
+        "sheet": "Medium-High confidence items",
+        "csv": "/work/reports/id_match_scopefix_main_3.csv"
+      },
+      "id_low": {
+        "rows_checked": 53,
+        "overall_pass": 53,
+        "overall_fail": 0,
+        "sheet": "Low Confidence Items",
+        "csv": "/work/reports/id_match_scopefix_low_3.csv"
+      },
+      "sheet3": {
+        "ok": true,
+        "rows_checked": 19,
+        "retained_pmids_count": 63,
+        "blank_cells": 0,
+        "placeholder_values": 0,
+        "invalid_urls": 0,
+        "missing_hyperlinks": 0,
+        "membership_mismatches": 0,
+        "error_count": 0,
+        "errors": []
+      }
+    }
+  }
+}

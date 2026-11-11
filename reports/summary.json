@@ -1,0 +1,15 @@
+{
+  "input_workbook": "/work/Autoimmune Encephalitis Research paper summary.xlsx",
+  "output_workbook": "/work/Autoimmune Encephalitis Research paper summary_output.xlsx",
+  "retrieval_enabled": true,
+  "retrieved_new_pmids": 150,
+  "rows_added": 150,
+  "total_nonempty_rows": 150,
+  "metadata_pass": 150,
+  "metadata_review_or_fail": 0,
+  "abstract_pass": 145,
+  "abstract_review_or_fail": 5,
+  "submitted_list_enabled": true,
+  "submitted_list_total_rows": 150,
+  "additional_papers_beyond_submitted_list": 149
+}

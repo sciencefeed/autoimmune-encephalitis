@@ -1,0 +1,11 @@
+row,pmid,id_url_match,url_match,hyperlink_match,title_similarity,title_match,overall,title_pubmed
+4,26199781,PASS,PASS,PASS,100.0,PASS,PASS,Anti-NMDA Receptor Encephalitis in a Patient with Previous Psychosis and Neurological Abnormalities: A Diagnostic Challenge.
+5,29213978,PASS,PASS,PASS,100.0,PASS,PASS,A patient with a long history of relapsing psychosis and mania presenting with anti-NMDA receptor encephalitis ten years after first episode.
+6,37795458,PASS,PASS,PASS,100.0,PASS,PASS,A case of schizophrenia refuting mind-body dualism.
+7,26089673,PASS,PASS,PASS,100.0,PASS,PASS,Anti-N-methyl-d-aspartate receptor encephalitis in a patient with a 7-year history of being diagnosed as schizophrenia: complexities in diagnosis and treatment.
+8,40014951,PASS,PASS,PASS,100.0,PASS,PASS,Identifying anti-LGI-1 encephalitis in psychotic disorders: A clinically focused review.
+9,35822507,PASS,PASS,PASS,100.0,PASS,PASS,Acute medical workup for new-onset psychosis in children and adolescents: A retrospective cohort.
+10,23997078,PASS,PASS,PASS,100.0,PASS,PASS,Autoimmune limbic encephalitis presenting as relapsing psychosis.
+11,41185809,PASS,PASS,PASS,100.0,PASS,PASS,Diagnostic Challenges in a Patient With Systemic Lupus Erythematosus (SLE) and Anti-N-Methyl-D-Aspartate (NMDA) Receptor Encephalitis: A Case Report.
+12,34736411,PASS,PASS,PASS,100.0,PASS,PASS,A peculiar case of psychosis: anti-NMDAr encephalitis.
+13,39220423,PASS,PASS,PASS,100.0,PASS,PASS,Postencephalitic syndrome with immune-mediated psychosis in an adult with meningitis due to Streptococcus pneumoniae: A case report.

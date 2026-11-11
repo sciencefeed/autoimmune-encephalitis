@@ -1,0 +1,7 @@
+interface:
+  display_name: "High-Recall Systematic Review"
+  short_description: "Rigorous review workflow with recall gates"
+  default_prompt: "Use $high-recall-systematic-review to set up and run a rigorous high-recall systematic review workflow."
+
+policy:
+  allow_implicit_invocation: true

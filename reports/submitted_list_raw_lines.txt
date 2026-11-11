@@ -1,0 +1,27 @@
+# Paste one PMID or URL per line.
+# Examples:
+# https://pubmed.ncbi.nlm.nih.gov/29785589/
+# PMID: 26199781
+# https://frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2017.00174/full
+https://www.washingtonpost.com/wellness/2023/06/01/schizophrenia-autoimmune-lupus-psychiatry/
+https://www.lupus.org/resources/the-expert-series-bonus-episode-the-awakening-when-lupus-looks-like-mental-illness
+https://www.science.org/content/article/inflamed-brain-can-trigger-psychosis-search-patients-might-cured
+https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2017.00174/full
+https://pubmed.ncbi.nlm.nih.gov/28798699/
+https://pubmed.ncbi.nlm.nih.gov/35222231/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8882583/
+https://pubmed.ncbi.nlm.nih.gov/39216106/
+https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2023.1206226/full
+https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.754938/full
+https://www.cambridge.org/core/journals/psychological-medicine/article/abs/dialysis-and-plasmapheresis-for-schizophrenia-a-systematic-review/7C67B61C3AB146EF41A0D2609ED2845A
+https://www.snfnostos.org/en/archive/2023-snf-nostos-conference/conference-program/236/the-work-of-the-snf-center-for-precision-psychiatry-at-columbia-university/
+https://pubmed.ncbi.nlm.nih.gov/29213978/
+https://pubmed.ncbi.nlm.nih.gov/26199781/
+https://pubmed.ncbi.nlm.nih.gov/26089673/
+https://www.jocn-journal.com/article/S0967-5868(13)00017-9/abstract
+https://pubmed.ncbi.nlm.nih.gov/23997078/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7348933/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5028184/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10233061/
+https://pubmed.ncbi.nlm.nih.gov/23344076/
+https://jaapl.org/content/52/2/225
